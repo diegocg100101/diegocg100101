@@ -1,11 +1,6 @@
-Hi, I’m Diego, a computer and telecommunications engineer, I'm really passionate about everything related computers, systems, networks and, basically, everything related with computer sciences. :) \
-I’m interested in:
+Hi, I’m Diego, a computer and telecommunications engineer with a deep passion for everything related to computers, systems, networks, and, in general, computer science.
+My main areas of interest include:
 - Software development.
 - Web, desktop and mobile apps.
 - AI.
 - Machine Learning.
- 
-<!---
-diegocg100101/diegocg100101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
